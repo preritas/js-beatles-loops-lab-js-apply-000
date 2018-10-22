@@ -6,3 +6,4 @@ languages:
   - JavaScript
 resources: 
   - 0
+  function theBeatlesPlay(musicians,instruments) {var newarray=[];for (var i=0; i<musicans.length; i++){newarray.push(musicians[i]+"plays" + instruments [i];} return newarray;}
